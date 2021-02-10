@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    color:  rgb(132, 0, 255);
+    border-radius: 10px;
+    border: 3px solid  rgb(132, 0, 255);
+    background-color: SpringGreen;
+    padding: 15px;
+}
+header a {
+    text-decoration: none;
+    padding: 5px;
+    border: 3px solid  rgb(132, 0, 255);
+    border-radius: 10px;
+    color:  rgb(132, 0, 255);
+}
+h1 {
+    color: rgb(132, 0, 255);
+}
+footer {
+    background-color: rgb(132, 0, 255);
+    color: black;
+}
+footer p {
+    background-color: white;
+}
+nav {
+    margin: 25px;
+    padding: 10px;
+    border: 2px solid  rgb(132, 0, 255);
+}
+nav a {
+    margin: 60px;
+    font-size: 20px;
+    text-decoration: none;
+    color:  rgb(132, 0, 255);
+}
+h2 p {
+    background-color: palegreen;
+}
+h2 {
+    color: rgb(132, 0, 255);
+}
+a {
+    text-decoration: none;
+    padding: 5px;
+    border: 3px solid  rgb(132, 0, 255);
+    border-radius: 10px;
+    color:  rgb(132, 0, 255);
+}
